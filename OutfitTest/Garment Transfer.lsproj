@@ -1,0 +1,3564 @@
+{
+    "lens_id": "",
+    "document_id": "ReaMyN8iu0YIePx_AZ3O",
+    "original_document_id": "ReaMyN8iu0YIePx_AZ3O",
+    "version": "29",
+    "lastChanged": "0",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "true",
+    "isAutoSaved": "false",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "34",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "34",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Carousel 2D Assets"
+                    ],
+                    [
+                        "Carousel 2D Assets",
+                        "Materials"
+                    ],
+                    [
+                        "Carousel 2D Assets",
+                        "Materials",
+                        "CarouselBackground"
+                    ],
+                    [
+                        "Carousel 2D Assets",
+                        "Materials",
+                        "CarouselItem"
+                    ],
+                    [
+                        "Carousel 2D Assets",
+                        "Materials",
+                        "CarouselRing"
+                    ],
+                    [
+                        "Carousel 2D Assets",
+                        "Scripts"
+                    ],
+                    [
+                        "Carousel 2D Assets",
+                        "Scripts",
+                        "Carousel2D"
+                    ],
+                    [
+                        "Carousel 2D Assets",
+                        "Textures"
+                    ],
+                    [
+                        "Carousel 2D Assets",
+                        "Textures",
+                        "ring"
+                    ],
+                    [
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Garment Transfer"
+                    ],
+                    [
+                        "Physics Root World Settings"
+                    ],
+                    [
+                        "RenderTargets"
+                    ],
+                    [
+                        "RenderTargets",
+                        "Garment Transfer Input"
+                    ],
+                    [
+                        "RenderTargets",
+                        "Live Render Target"
+                    ],
+                    [
+                        "RenderTargets",
+                        "Render Target"
+                    ],
+                    [
+                        "Scripts",
+                        "GTController"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Body Segmentation"
+                    ],
+                    [
+                        "Textures",
+                        "Echopark"
+                    ],
+                    [
+                        "Textures",
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Textures",
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Textures",
+                        "Example Garments"
+                    ],
+                    [
+                        "Textures",
+                        "Example Garments",
+                        "shirt1"
+                    ],
+                    [
+                        "Textures",
+                        "Example Garments",
+                        "shirt2"
+                    ],
+                    [
+                        "Textures",
+                        "Example Garments",
+                        "shirt3"
+                    ],
+                    [
+                        "Textures",
+                        "photo_button_texture"
+                    ],
+                    [
+                        "Textures",
+                        "reset_button_texture"
+                    ],
+                    [
+                        "Textures",
+                        "round_sunglasses"
+                    ],
+                    [
+                        "Textures",
+                        "space_background"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1666511046597004:30951",
+                    "1666511046693048:31268",
+                    "1666511046694055:31277",
+                    "1666511046694271:31279",
+                    "1666511046712888:31413",
+                    "1666511046750139:31678",
+                    "1666512896603015:258987",
+                    "1666514727625406:888326",
+                    "1666514743742062:898161",
+                    "1666603739279395:129471"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "973e9ac7c2e73b33d21f1dc541c36d82",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Garment Transfer",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "project:Videos\/Garment Transfer.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1667376071720007:262391"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "MapUiComponent": {
+            "mapPinPoints": {
+                "1649082416475574:107527": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082427199232:110271": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082439729750:113424": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082450030542:116090": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082460630816:118829": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082471244376:121575": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082481781800:124296": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082491465116:126851": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082504700263:130155": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649083114749264:286916": {
+                    "longitude": "-0.13116145133972168",
+                    "latitude": "51.512794494628906",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649083114749061:286915",
+                    "locationAsset": "1649083114749736:286917"
+                },
+                "1649094984677630:32157": {
+                    "longitude": "-0.13121148943901062",
+                    "latitude": "51.512771606445312",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649094984677441:32156",
+                    "locationAsset": "1649094984678151:32158"
+                },
+                "1649772212970366:35230": {
+                    "longitude": "-0.13149562478065491",
+                    "latitude": "51.513656616210938",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649772212970143:35229",
+                    "locationAsset": "1649772212970867:35231"
+                },
+                "1649778275335615:644381": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649778655920914:710757": {
+                    "longitude": "-0.13150887191295624",
+                    "latitude": "51.513614654541016",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Frith Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649778655920668:710756",
+                    "locationAsset": "1649778655921339:710758"
+                },
+                "1649865066556768:58106": {
+                    "longitude": "-0.13167314231395721",
+                    "latitude": "51.513031005859375",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Old Compton Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649865066556471:58105",
+                    "locationAsset": "1649865066557449:58107"
+                },
+                "1649964505575077:712535": {
+                    "longitude": "-0.13096083700656891",
+                    "latitude": "51.512859344482422",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Romilly Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649964505574756:712534",
+                    "locationAsset": "1649964505575881:712536"
+                },
+                "1651740821321039:38503": {
+                    "longitude": "-0.13170607388019562",
+                    "latitude": "51.512580871582031",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Dean Street And Romily",
+                    "pinUid": "1651740821320812:38502",
+                    "locationAsset": "1651740821321523:38504"
+                },
+                "1651744904534351:1306090": {
+                    "longitude": "-0.13159231841564178",
+                    "latitude": "51.512386322021484",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1651744904534135:1306089",
+                    "locationAsset": "1651744904535003:1306091"
+                },
+                "1652347539892906:46549": {
+                    "longitude": "-0.085821650922298431",
+                    "latitude": "51.528266906738281",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1652347539892395:46548",
+                    "locationAsset": "1652347539893864:46550"
+                },
+                "1653297295919937:563039": {
+                    "longitude": "-0.12685032188892365",
+                    "latitude": "51.507827758789062",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297295919457:563038",
+                    "locationAsset": "1653297295921503:563046"
+                },
+                "1653297493220826:286071": {
+                    "longitude": "-0.12681996822357178",
+                    "latitude": "51.515045166015625",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297493220620:286070",
+                    "locationAsset": "1653297493221647:286072"
+                },
+                "1653297815414767:678204": {
+                    "longitude": "-0.12326952069997787",
+                    "latitude": "51.509716033935547",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297815414537:678203",
+                    "locationAsset": "1653297815415381:678205"
+                }
+            },
+            "mapCurrentPosition": {
+                "x": "-0.131214619",
+                "y": "51.5132256"
+            }
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1666511046058397:30791",
+                    "name": "Files\/File11.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1666511046096666:30802",
+                    "name": "Files\/File14.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1666511046132537:30814",
+                    "name": "Files\/File17.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1666511046140042:30824",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1666511046146908:30831",
+                    "name": "Files\/File18.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1666511046174336:30842",
+                    "name": "Files\/File21.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1666511046195781:30851",
+                    "name": "Files\/File24.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1666511046209756:30862",
+                    "name": "Files\/File25",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1666511046333610:30877",
+                    "name": "Files\/File27",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1666511046449003:30918",
+                    "name": "Files\/File29",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1666511046574512:30936",
+                    "name": "Files\/File31.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1666512286357314:144289",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1666512886089537:256310",
+                    "name": "Files\/File65.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1666603857635787:181156",
+                    "name": "Body Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "127",
+                    "uid": "1666691851482907:1283475",
+                    "name": "Files\/File159.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "128",
+                    "uid": "1666691851493505:1283498",
+                    "name": "Files\/File160",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "129",
+                    "uid": "1666691851601134:1283553",
+                    "name": "Files\/File162.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "130",
+                    "uid": "1666691851604333:1283561",
+                    "name": "sceneObject_1",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "131",
+                    "uid": "1666691851632888:1283583",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "132",
+                    "uid": "1666691851633154:1283590",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "133",
+                    "uid": "1666691851633381:1283597",
+                    "name": "Proxy Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "134",
+                    "uid": "1666691851633775:1283604",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "135",
+                    "uid": "1666691851634010:1283611",
+                    "name": "Proxy Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "136",
+                    "uid": "1666691851635811:1283618",
+                    "name": "Files\/File164.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "137",
+                    "uid": "1666691851640611:1283625",
+                    "name": "Files\/File165.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "138",
+                    "uid": "1666691851645226:1283632",
+                    "name": "Files\/File166.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "139",
+                    "uid": "1666691851648095:1283641",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "140",
+                    "uid": "1666691851648421:1283648",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "141",
+                    "uid": "1666691851650869:1283655",
+                    "name": "Files\/File167",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "142",
+                    "uid": "1666691851756909:1283722",
+                    "name": "Files\/File169",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "143",
+                    "uid": "1666691851859036:1283777",
+                    "name": "Files\/File171.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "144",
+                    "uid": "1666691851863638:1283787",
+                    "name": "Files\/File172.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "145",
+                    "uid": "1666691851868624:1283798",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "146",
+                    "uid": "1666691851881360:1283808",
+                    "name": "Files\/File173.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "147",
+                    "uid": "1666691851889185:1283830",
+                    "name": "Files\/File174.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "148",
+                    "uid": "1666691851898287:1283850",
+                    "name": "Files\/File175.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "172",
+                    "uid": "1667211297031619:1857763",
+                    "name": "Files\/File206.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "174",
+                    "uid": "1667376073021840:263230",
+                    "name": "Files\/File214.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "175",
+                    "uid": "1667376073029456:263253",
+                    "name": "Files\/File215",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "176",
+                    "uid": "1667376073164195:263322",
+                    "name": "Files\/File217.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "177",
+                    "uid": "1667376073168040:263330",
+                    "name": "sceneObject_0",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "178",
+                    "uid": "1667376073201152:263352",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "179",
+                    "uid": "1667376073201490:263359",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "180",
+                    "uid": "1667376073201911:263366",
+                    "name": "Proxy Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "181",
+                    "uid": "1667376073202223:263373",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "182",
+                    "uid": "1667376073202430:263380",
+                    "name": "Proxy Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "183",
+                    "uid": "1667376073204428:263387",
+                    "name": "Files\/File219.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "184",
+                    "uid": "1667376073210483:263394",
+                    "name": "Files\/File220.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "185",
+                    "uid": "1667376073231593:263415",
+                    "name": "Files\/File221.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "186",
+                    "uid": "1667376073235206:263422",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "187",
+                    "uid": "1667376073235473:263429",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "188",
+                    "uid": "1667376073237938:263436",
+                    "name": "Files\/File222",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "189",
+                    "uid": "1667376073365067:263505",
+                    "name": "Files\/File224",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "190",
+                    "uid": "1667376073479405:263562",
+                    "name": "Files\/File226.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "191",
+                    "uid": "1667376073498160:263585",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "192",
+                    "uid": "1667376073514005:263595",
+                    "name": "Files\/File227.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "193",
+                    "uid": "1667376073529446:263627",
+                    "name": "Files\/File228.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "194",
+                    "uid": "1667376073535704:263643",
+                    "name": "Files\/File229.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "195",
+                    "uid": "1667376073540475:263653",
+                    "name": "Files\/File230.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "196",
+                    "uid": "1667816399679930:1544484",
+                    "name": "Files\/File238.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "244",
+                    "uid": "1668412278408790:46414",
+                    "name": "Files\/File295.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "245",
+                    "uid": "1668412278413778:46425",
+                    "name": "Files\/File296",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "246",
+                    "uid": "1668412278515265:46444",
+                    "name": "Files\/File298.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "247",
+                    "uid": "1668412278527804:46452",
+                    "name": "sceneObject_0",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "248",
+                    "uid": "1668412278548537:46460",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "249",
+                    "uid": "1668412278548816:46467",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "250",
+                    "uid": "1668412278549055:46474",
+                    "name": "Proxy Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "251",
+                    "uid": "1668412278549364:46481",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "252",
+                    "uid": "1668412278549603:46488",
+                    "name": "Proxy Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "253",
+                    "uid": "1668412278551362:46495",
+                    "name": "Files\/File300.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "254",
+                    "uid": "1668412278555627:46502",
+                    "name": "Files\/File301.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "255",
+                    "uid": "1668412278570310:46511",
+                    "name": "Files\/File302.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "256",
+                    "uid": "1668412278573068:46518",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "257",
+                    "uid": "1668412278573386:46525",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "258",
+                    "uid": "1668412278575652:46532",
+                    "name": "Files\/File303",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "259",
+                    "uid": "1668412278658222:46549",
+                    "name": "Files\/File305",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "260",
+                    "uid": "1668412278755865:46566",
+                    "name": "Files\/File307.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "261",
+                    "uid": "1668412278761294:46579",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "262",
+                    "uid": "1668412278771915:46587",
+                    "name": "Files\/File308.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "263",
+                    "uid": "1668412278777013:46603",
+                    "name": "Files\/File309.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "264",
+                    "uid": "1668412278781409:46613",
+                    "name": "Files\/File310.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "265",
+                    "uid": "1668412278785920:46623",
+                    "name": "Files\/File311.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1666511046597176:30953",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1666511046666265:31084",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1666511046694477:31281",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1666511046713146:31415",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1666511046732169:31551",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1666511046751009:31695",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1666511046768842:31824",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1666603739256666:129329",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1666603739279551:129472",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1666511046595386:30947",
+                "1": "1666511046596798:30949",
+                "2": "1666511046597004:30951",
+                "3": "1666511046693048:31268",
+                "4": "1666511046694055:31277",
+                "5": "1666511046694271:31279",
+                "6": "1666511046712888:31413",
+                "7": "1666511046749796:31676",
+                "8": "1666511046750139:31678",
+                "9": "1666512452059041:175273",
+                "10": "1666512452059205:175274",
+                "11": "1666512896603015:258987",
+                "12": "1666603739255979:129327",
+                "13": "1666603739279395:129471"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "8",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "UI",
+                    "layerMask": "2",
+                    "colorCode": "0"
+                },
+                {
+                    "layerId": "5",
+                    "layerName": "BG Effect Layer",
+                    "layerMask": "16",
+                    "colorCode": "3"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.jpg"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.jpg"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.jpg"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.jpg"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.js"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.pvr"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.png"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.pvr"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.png"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.js"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.lsmat"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.lsmat"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.lsmat"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.pvr"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.png"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.png"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.pvr"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.pvr"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.pvr"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.js"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.pvr"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.png"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.png"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.pvr"
+                },
+                {
+                    "k": "108",
+                    "v": "Files\/File108.js"
+                },
+                {
+                    "k": "127",
+                    "v": "Files\/File127.lsc"
+                },
+                {
+                    "k": "157",
+                    "v": "Files\/File157.js"
+                },
+                {
+                    "k": "159",
+                    "v": "Files\/File159.js"
+                },
+                {
+                    "k": "160",
+                    "v": "Files\/File160"
+                },
+                {
+                    "k": "161",
+                    "v": "Files\/File161.lsmat"
+                },
+                {
+                    "k": "162",
+                    "v": "Files\/File162.js"
+                },
+                {
+                    "k": "163",
+                    "v": "Files\/File163.oprfb"
+                },
+                {
+                    "k": "164",
+                    "v": "Files\/File164.js"
+                },
+                {
+                    "k": "165",
+                    "v": "Files\/File165.js"
+                },
+                {
+                    "k": "166",
+                    "v": "Files\/File166.js"
+                },
+                {
+                    "k": "167",
+                    "v": "Files\/File167"
+                },
+                {
+                    "k": "168",
+                    "v": "Files\/File168.lsmat"
+                },
+                {
+                    "k": "169",
+                    "v": "Files\/File169"
+                },
+                {
+                    "k": "170",
+                    "v": "Files\/File170.lsmat"
+                },
+                {
+                    "k": "171",
+                    "v": "Files\/File171.dnn"
+                },
+                {
+                    "k": "172",
+                    "v": "Files\/File172.dnn"
+                },
+                {
+                    "k": "173",
+                    "v": "Files\/File173.dnn"
+                },
+                {
+                    "k": "174",
+                    "v": "Files\/File174.dnn"
+                },
+                {
+                    "k": "175",
+                    "v": "Files\/File175.dnn"
+                },
+                {
+                    "k": "176",
+                    "v": "Files\/File176.lsc"
+                },
+                {
+                    "k": "182",
+                    "v": "Files\/File182.oprfb"
+                },
+                {
+                    "k": "183",
+                    "v": "Files\/File183.lsc"
+                },
+                {
+                    "k": "206",
+                    "v": "Files\/File206.pvr"
+                },
+                {
+                    "k": "207",
+                    "v": "Files\/File207.pvr"
+                },
+                {
+                    "k": "214",
+                    "v": "Files\/File214.js"
+                },
+                {
+                    "k": "215",
+                    "v": "Files\/File215"
+                },
+                {
+                    "k": "216",
+                    "v": "Files\/File216.lsmat"
+                },
+                {
+                    "k": "217",
+                    "v": "Files\/File217.js"
+                },
+                {
+                    "k": "218",
+                    "v": "Files\/File218.oprfb"
+                },
+                {
+                    "k": "219",
+                    "v": "Files\/File219.js"
+                },
+                {
+                    "k": "220",
+                    "v": "Files\/File220.js"
+                },
+                {
+                    "k": "221",
+                    "v": "Files\/File221.js"
+                },
+                {
+                    "k": "222",
+                    "v": "Files\/File222"
+                },
+                {
+                    "k": "223",
+                    "v": "Files\/File223.lsmat"
+                },
+                {
+                    "k": "224",
+                    "v": "Files\/File224"
+                },
+                {
+                    "k": "225",
+                    "v": "Files\/File225.lsmat"
+                },
+                {
+                    "k": "226",
+                    "v": "Files\/File226.dnn"
+                },
+                {
+                    "k": "227",
+                    "v": "Files\/File227.dnn"
+                },
+                {
+                    "k": "228",
+                    "v": "Files\/File228.dnn"
+                },
+                {
+                    "k": "229",
+                    "v": "Files\/File229.dnn"
+                },
+                {
+                    "k": "230",
+                    "v": "Files\/File230.dnn"
+                },
+                {
+                    "k": "231",
+                    "v": "Files\/File231.lsc"
+                },
+                {
+                    "k": "237",
+                    "v": "Files\/File237.oprfb"
+                },
+                {
+                    "k": "238",
+                    "v": "Files\/File238.jpg"
+                },
+                {
+                    "k": "239",
+                    "v": "Files\/File239.jpg"
+                },
+                {
+                    "k": "240",
+                    "v": "Files\/File240.jpg"
+                },
+                {
+                    "k": "241",
+                    "v": "Files\/File241.jpg"
+                },
+                {
+                    "k": "242",
+                    "v": "Files\/File242.jpg"
+                },
+                {
+                    "k": "243",
+                    "v": "Files\/File243.jpg"
+                },
+                {
+                    "k": "244",
+                    "v": "Files\/File244.jpg"
+                },
+                {
+                    "k": "245",
+                    "v": "Files\/File245.jpg"
+                },
+                {
+                    "k": "246",
+                    "v": "Files\/File246.lsc"
+                },
+                {
+                    "k": "287",
+                    "v": "Files\/File287.lsc"
+                },
+                {
+                    "k": "294",
+                    "v": "Files\/File294.lsc"
+                },
+                {
+                    "k": "295",
+                    "v": "Files\/File295.js"
+                },
+                {
+                    "k": "296",
+                    "v": "Files\/File296"
+                },
+                {
+                    "k": "297",
+                    "v": "Files\/File297.lsmat"
+                },
+                {
+                    "k": "298",
+                    "v": "Files\/File298.js"
+                },
+                {
+                    "k": "299",
+                    "v": "Files\/File299.oprfb"
+                },
+                {
+                    "k": "300",
+                    "v": "Files\/File300.js"
+                },
+                {
+                    "k": "301",
+                    "v": "Files\/File301.js"
+                },
+                {
+                    "k": "302",
+                    "v": "Files\/File302.js"
+                },
+                {
+                    "k": "303",
+                    "v": "Files\/File303"
+                },
+                {
+                    "k": "304",
+                    "v": "Files\/File304.lsmat"
+                },
+                {
+                    "k": "305",
+                    "v": "Files\/File305"
+                },
+                {
+                    "k": "306",
+                    "v": "Files\/File306.lsmat"
+                },
+                {
+                    "k": "307",
+                    "v": "Files\/File307.dnn"
+                },
+                {
+                    "k": "308",
+                    "v": "Files\/File308.dnn"
+                },
+                {
+                    "k": "309",
+                    "v": "Files\/File309.dnn"
+                },
+                {
+                    "k": "310",
+                    "v": "Files\/File310.dnn"
+                },
+                {
+                    "k": "311",
+                    "v": "Files\/File311.dnn"
+                },
+                {
+                    "k": "312",
+                    "v": "Files\/File312.lsc"
+                },
+                {
+                    "k": "313",
+                    "v": "Files\/File313.dnn"
+                },
+                {
+                    "k": "314",
+                    "v": "Files\/File314.dnn"
+                },
+                {
+                    "k": "315",
+                    "v": "Files\/File315.dnn"
+                },
+                {
+                    "k": "316",
+                    "v": "Files\/File316.dnn"
+                },
+                {
+                    "k": "317",
+                    "v": "Files\/File317.dnn"
+                },
+                {
+                    "k": "318",
+                    "v": "Files\/File318.oprfb"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Textures\/Echopark.hdr"
+                    },
+                    {
+                        "k": "1495",
+                        "v": "Textures\/Example Garments"
+                    },
+                    {
+                        "k": "1497",
+                        "v": "Textures\/Example Garments\/shirt1.jpg"
+                    },
+                    {
+                        "k": "1498",
+                        "v": "Textures\/Example Garments\/shirt2.jpg"
+                    },
+                    {
+                        "k": "1499",
+                        "v": "Scripts\/GTController.js"
+                    },
+                    {
+                        "k": "1500",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "1501",
+                        "v": "Textures\/photo_button_texture.png"
+                    },
+                    {
+                        "k": "1502",
+                        "v": "Textures\/reset_button_texture.png"
+                    },
+                    {
+                        "k": "1503",
+                        "v": "Carousel 2D Assets"
+                    },
+                    {
+                        "k": "1504",
+                        "v": "Carousel 2D Assets\/Scripts"
+                    },
+                    {
+                        "k": "1505",
+                        "v": "Carousel 2D Assets\/Scripts\/Carousel2D.js"
+                    },
+                    {
+                        "k": "1506",
+                        "v": "Carousel 2D Assets\/Materials"
+                    },
+                    {
+                        "k": "1507",
+                        "v": "Carousel 2D Assets\/Materials\/CarouselItem.lsmat"
+                    },
+                    {
+                        "k": "1508",
+                        "v": "Carousel 2D Assets\/Materials\/CarouselRing.lsmat"
+                    },
+                    {
+                        "k": "1509",
+                        "v": "Carousel 2D Assets\/Materials\/CarouselBackground.lsmat"
+                    },
+                    {
+                        "k": "1510",
+                        "v": "Carousel 2D Assets\/Textures"
+                    },
+                    {
+                        "k": "1511",
+                        "v": "Carousel 2D Assets\/Textures\/ring.png"
+                    },
+                    {
+                        "k": "1533",
+                        "v": "Textures\/round_sunglasses.png"
+                    },
+                    {
+                        "k": "1535",
+                        "v": "RenderTargets"
+                    },
+                    {
+                        "k": "1594",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "29453",
+                        "v": "Textures\/space_background.pvr"
+                    },
+                    {
+                        "k": "29485",
+                        "v": "Textures\/Example Garments\/shirt3.jpg"
+                    },
+                    {
+                        "k": "31512",
+                        "v": "Garment Transfer.lsc"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "1496",
+                        "v": "cafdf19a854a1945c6da110f58f494af"
+                    },
+                    {
+                        "k": "1497",
+                        "v": "f49fcfb1edb11f3e316e98d1090a069a"
+                    },
+                    {
+                        "k": "1498",
+                        "v": "ca64ff7a9fa67c841d63c7eb77b54294"
+                    },
+                    {
+                        "k": "1499",
+                        "v": "195cc9481a53b895b0379afaab00b597"
+                    },
+                    {
+                        "k": "1501",
+                        "v": "5d908faf6d9650aecac1f2be0c5cf54a"
+                    },
+                    {
+                        "k": "1502",
+                        "v": "6da1f83ee70dc2fed3b7be1811d6f2f1"
+                    },
+                    {
+                        "k": "1505",
+                        "v": "afe13b774495d7ae84efba1064007bf8"
+                    },
+                    {
+                        "k": "1507",
+                        "v": "81c21fbca56e3bcdc245cf26ae2eb53b"
+                    },
+                    {
+                        "k": "1508",
+                        "v": "b12a9d58a4dc55ef9e0188d523d5cd98"
+                    },
+                    {
+                        "k": "1509",
+                        "v": "65e1462ee3fdf4318474445ffa4c4893"
+                    },
+                    {
+                        "k": "1511",
+                        "v": "289d40437d6a5ad8af1e13958817dcbe"
+                    },
+                    {
+                        "k": "1514",
+                        "v": "b7c814a0a68da5dac14fc012ab39ed5b"
+                    },
+                    {
+                        "k": "1515",
+                        "v": "92fa1bbff92644aea791c37aaa29561e"
+                    },
+                    {
+                        "k": "1516",
+                        "v": "2e0320c1b0f163e402af7cb26099ea1d"
+                    },
+                    {
+                        "k": "1519",
+                        "v": "5dfcddffb961ea7658a862869e80a89d"
+                    },
+                    {
+                        "k": "1520",
+                        "v": "a37840b14514a3adcd7eb98fa39d5de2"
+                    },
+                    {
+                        "k": "1521",
+                        "v": "3c8478f69a9da5fe6bccd4f02caf5552"
+                    },
+                    {
+                        "k": "1524",
+                        "v": "cb55dfd1c749018b38be35b329a52bd1"
+                    },
+                    {
+                        "k": "1525",
+                        "v": "221378f1616422d434aba3b9eb3175d6"
+                    },
+                    {
+                        "k": "1527",
+                        "v": "fc97cb798b66ceae845160f36aea8210"
+                    },
+                    {
+                        "k": "1528",
+                        "v": "1969bd4ba357e12565211ea956840232"
+                    },
+                    {
+                        "k": "1529",
+                        "v": "a9821978039aa79e5a41030a0540fa36"
+                    },
+                    {
+                        "k": "1530",
+                        "v": "f91799394295b23332053a29d5c4b64f"
+                    },
+                    {
+                        "k": "1531",
+                        "v": "161d8609c42808b1cbdd051d8c35d9b3"
+                    },
+                    {
+                        "k": "1532",
+                        "v": "7440948539e44955b7afeba93e1ba15a"
+                    },
+                    {
+                        "k": "1533",
+                        "v": "41899a09c781319792af8d4393d38b9b"
+                    },
+                    {
+                        "k": "1534",
+                        "v": "fd8d85990d995a65037423cd18eb5422"
+                    },
+                    {
+                        "k": "1537",
+                        "v": "b5953d1c5123f884c8fa06cdb7931dbb"
+                    },
+                    {
+                        "k": "1538",
+                        "v": "54b5e21104a4a7f86b3d510596fdc27e"
+                    },
+                    {
+                        "k": "1539",
+                        "v": "cc205f187c992a937248b83fa09b5855"
+                    },
+                    {
+                        "k": "1540",
+                        "v": "9c71ed0868bd55ebcd899140ef1a8367"
+                    },
+                    {
+                        "k": "1541",
+                        "v": "700693dc5d8397ed235648a97318f3f9"
+                    },
+                    {
+                        "k": "1544",
+                        "v": "1ff13c18c2a83f23257a4b1d09c96841"
+                    },
+                    {
+                        "k": "1545",
+                        "v": "92fa1bbff92644aea791c37aaa29561e"
+                    },
+                    {
+                        "k": "1546",
+                        "v": "8b16dc5ae243a8ee0b3aad9db95ce8a6"
+                    },
+                    {
+                        "k": "1549",
+                        "v": "6afc08bca78ba3263a9b9cca6463f9fe"
+                    },
+                    {
+                        "k": "1550",
+                        "v": "a37840b14514a3adcd7eb98fa39d5de2"
+                    },
+                    {
+                        "k": "1551",
+                        "v": "2567d2989f1ec1be14c1a59fcf5dfdd0"
+                    },
+                    {
+                        "k": "1554",
+                        "v": "46fd6f124177138ad6da3e4f690ee6f3"
+                    },
+                    {
+                        "k": "1555",
+                        "v": "9e9e946c39e881dccbdf23687e5f781b"
+                    },
+                    {
+                        "k": "1557",
+                        "v": "75468ceaaeb801059d7db422b4c80a7b"
+                    },
+                    {
+                        "k": "1558",
+                        "v": "1969bd4ba357e12565211ea956840232"
+                    },
+                    {
+                        "k": "1559",
+                        "v": "161d8609c42808b1cbdd051d8c35d9b3"
+                    },
+                    {
+                        "k": "1560",
+                        "v": "c96fcb783f4d5cdf28cc15b71a2e5f53"
+                    },
+                    {
+                        "k": "1561",
+                        "v": "599304746fffc9d91a2538b6bf3c031b"
+                    },
+                    {
+                        "k": "1562",
+                        "v": "bbc5c0f2d89639213a67d835693f69ea"
+                    },
+                    {
+                        "k": "1563",
+                        "v": "b5e595b52783a26250fb3fd799adf482"
+                    },
+                    {
+                        "k": "1574",
+                        "v": "47902fbe89af285694b6a847aa89fe16"
+                    },
+                    {
+                        "k": "1575",
+                        "v": "92fa1bbff92644aea791c37aaa29561e"
+                    },
+                    {
+                        "k": "1576",
+                        "v": "7e0360eed699c149a2e7faafbe5a6425"
+                    },
+                    {
+                        "k": "1579",
+                        "v": "6afc08bca78ba3263a9b9cca6463f9fe"
+                    },
+                    {
+                        "k": "1580",
+                        "v": "a37840b14514a3adcd7eb98fa39d5de2"
+                    },
+                    {
+                        "k": "1581",
+                        "v": "2567d2989f1ec1be14c1a59fcf5dfdd0"
+                    },
+                    {
+                        "k": "1584",
+                        "v": "ca73eb9b80697fb657e49ac90d657128"
+                    },
+                    {
+                        "k": "1585",
+                        "v": "286f8c30d2e19ccb69525a56f47ad8a6"
+                    },
+                    {
+                        "k": "1587",
+                        "v": "75468ceaaeb801059d7db422b4c80a7b"
+                    },
+                    {
+                        "k": "1588",
+                        "v": "1969bd4ba357e12565211ea956840232"
+                    },
+                    {
+                        "k": "1589",
+                        "v": "161d8609c42808b1cbdd051d8c35d9b3"
+                    },
+                    {
+                        "k": "1590",
+                        "v": "c96fcb783f4d5cdf28cc15b71a2e5f53"
+                    },
+                    {
+                        "k": "1591",
+                        "v": "599304746fffc9d91a2538b6bf3c031b"
+                    },
+                    {
+                        "k": "1592",
+                        "v": "ff0c3c4203c0028d2c9349cc4811c2ad"
+                    },
+                    {
+                        "k": "1593",
+                        "v": "b9a3c2b93a5bc52c935458bffd1c1649"
+                    },
+                    {
+                        "k": "29453",
+                        "v": "e021d351dfb8ee91977d74e7e4f06083"
+                    },
+                    {
+                        "k": "29454",
+                        "v": "b30462bd8b78761584a88a5511ea68b5"
+                    },
+                    {
+                        "k": "29469",
+                        "v": "d4737efb9c617cdf3b4bb6fd9a5bcd84"
+                    },
+                    {
+                        "k": "29485",
+                        "v": "1948df3379e29969ef7d3ec7722c36dd"
+                    },
+                    {
+                        "k": "31511",
+                        "v": "19934e61b7bc405d8e929a827381b923"
+                    },
+                    {
+                        "k": "31512",
+                        "v": "1cc4333f14667ae69952b3a0ac0506da"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-11-15T08:36:32",
+                        "name": "Public",
+                        "hash": "9acfaf6cd0b8afb4d29f026444229689",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-11-14T09:50:18",
+                                "name": "Textures",
+                                "hash": "1deeba2e6dc0392b2a39faa44e65c465",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-11-14T09:50:18",
+                                        "name": "Example Garments",
+                                        "hash": "ad04e11157562d79b0535dcf174cd9e1",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-11-14T09:50:18",
+                                                "name": "shirt1.jpg",
+                                                "hash": "f49fcfb1edb11f3e316e98d1090a069a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-11-14T09:50:18",
+                                                "name": "shirt3.jpg",
+                                                "hash": "1948df3379e29969ef7d3ec7722c36dd",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-11-14T09:50:18",
+                                                "name": "shirt2.jpg",
+                                                "hash": "ca64ff7a9fa67c841d63c7eb77b54294",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-11-14T09:50:18",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-11-14T09:50:18",
+                                        "name": "space_background.pvr",
+                                        "hash": "e021d351dfb8ee91977d74e7e4f06083",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-11-14T09:50:18",
+                                        "name": "reset_button_texture.png",
+                                        "hash": "6da1f83ee70dc2fed3b7be1811d6f2f1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-11-14T09:50:18",
+                                        "name": "photo_button_texture.png",
+                                        "hash": "5d908faf6d9650aecac1f2be0c5cf54a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-11-14T09:50:18",
+                                        "name": "Echopark.hdr",
+                                        "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-11-14T09:50:18",
+                                        "name": "round_sunglasses.png",
+                                        "hash": "41899a09c781319792af8d4393d38b9b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-11-14T09:50:18",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-11-15T08:36:31",
+                                "name": "Garment Transfer.lsc",
+                                "hash": "1cc4333f14667ae69952b3a0ac0506da",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-11-14T09:50:18",
+                                "name": "Scripts",
+                                "hash": "d1643a433d06b4c7c039447889fcbcfb",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-11-14T09:50:18",
+                                        "name": "GTController.js",
+                                        "hash": "195cc9481a53b895b0379afaab00b597",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-11-14T09:50:18",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-11-14T09:50:18",
+                                "name": "RenderTargets",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-11-14T09:50:18",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-11-14T09:50:18",
+                                "name": "Carousel 2D Assets",
+                                "hash": "9a070e2f9660be846cc8e944a361be31",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-11-14T09:50:18",
+                                        "name": "Textures",
+                                        "hash": "c9238abc027d2df6e3446b1e0c295cb5",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-11-14T09:50:18",
+                                                "name": "ring.png",
+                                                "hash": "289d40437d6a5ad8af1e13958817dcbe",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-11-14T09:50:18",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-11-14T09:50:18",
+                                        "name": "Materials",
+                                        "hash": "e8032cfd04a44c9b3b8ddacf70519570",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-11-14T09:50:18",
+                                                "name": "CarouselItem.lsmat",
+                                                "hash": "81c21fbca56e3bcdc245cf26ae2eb53b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-11-14T09:50:18",
+                                                "name": "CarouselBackground.lsmat",
+                                                "hash": "65e1462ee3fdf4318474445ffa4c4893",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-11-14T09:50:18",
+                                                "name": "CarouselRing.lsmat",
+                                                "hash": "b12a9d58a4dc55ef9e0188d523d5cd98",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-11-14T09:50:18",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-11-14T09:50:18",
+                                        "name": "Scripts",
+                                        "hash": "c94ea342a0ce6c32d674bb42dfc5a122",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-11-14T09:50:18",
+                                                "name": "Carousel2D.js",
+                                                "hash": "afe13b774495d7ae84efba1064007bf8",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-11-14T09:50:18",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-11-14T09:50:18",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-11-14T09:50:18",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1500",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "photo_button_texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "18",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1666511046146908:30831",
+                                "fileId": "18",
+                                "originalId": "19",
+                                "publicId": "1501",
+                                "source": "",
+                                "additional": {
+                                    "subtype": "9",
+                                    "originHash": "5d908faf6d9650aecac1f2be0c5cf54a"
+                                }
+                            },
+                            {
+                                "name": "reset_button_texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "19",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1666511046174336:30842",
+                                "fileId": "21",
+                                "originalId": "22",
+                                "publicId": "1502",
+                                "source": "",
+                                "additional": {
+                                    "subtype": "9",
+                                    "originHash": "6da1f83ee70dc2fed3b7be1811d6f2f1"
+                                }
+                            },
+                            {
+                                "name": "Body Segmentation",
+                                "type": "1",
+                                "subtype": "14",
+                                "resourceId": "51",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1666603857635787:181156",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "round_sunglasses",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "49",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1666512886089537:256310",
+                                "fileId": "65",
+                                "originalId": "66",
+                                "publicId": "1533",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "41899a09c781319792af8d4393d38b9b"
+                                }
+                            },
+                            {
+                                "name": "Example Garments",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1495",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "shirt1",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "14",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1666511046058397:30791",
+                                        "fileId": "11",
+                                        "originalId": "12",
+                                        "publicId": "1497",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "f49fcfb1edb11f3e316e98d1090a069a",
+                                            "subtype": "9"
+                                        }
+                                    },
+                                    {
+                                        "name": "shirt2",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "15",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1666511046096666:30802",
+                                        "fileId": "14",
+                                        "originalId": "15",
+                                        "publicId": "1498",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "ca64ff7a9fa67c841d63c7eb77b54294",
+                                            "subtype": "9"
+                                        }
+                                    },
+                                    {
+                                        "name": "shirt3",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "196",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1667816399679930:1544484",
+                                        "fileId": "238",
+                                        "originalId": "239",
+                                        "publicId": "29485",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "1948df3379e29969ef7d3ec7722c36dd"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "space_background",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "172",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1667211297031619:1857763",
+                                "fileId": "206",
+                                "originalId": "207",
+                                "publicId": "29453",
+                                "source": "",
+                                "additional": {
+                                    "subtype": "9"
+                                }
+                            },
+                            {
+                                "name": "Echopark",
+                                "type": "9",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "7",
+                                "originalId": "18446744073709551615",
+                                "publicId": "967",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Diff",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "10",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1588296316843646:534374",
+                                        "fileId": "3",
+                                        "originalId": "4",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Specular",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "11",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1588296316857901:534385",
+                                        "fileId": "5",
+                                        "originalId": "6",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Carousel 2D Assets",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1503",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Scripts",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1504",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Carousel2D",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "20",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1666511046195781:30851",
+                                        "fileId": "24",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1505",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1506",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "CarouselItem",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "21",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1666511046209756:30862",
+                                        "fileId": "25",
+                                        "originalId": "26",
+                                        "publicId": "1507",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "CarouselRing",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "22",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1666511046333610:30877",
+                                        "fileId": "27",
+                                        "originalId": "28",
+                                        "publicId": "1508",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "CarouselBackground",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "23",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1666511046449003:30918",
+                                        "fileId": "29",
+                                        "originalId": "30",
+                                        "publicId": "1509",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1510",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "ring",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "24",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1666511046574512:30936",
+                                        "fileId": "31",
+                                        "originalId": "32",
+                                        "publicId": "1511",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "289d40437d6a5ad8af1e13958817dcbe",
+                                            "subtype": "9"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "RenderTargets",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1535",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Garment Transfer Input",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "48",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1666512286357314:144289",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Live Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "17",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1666511046140042:30824",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": {
+                                    "RenderTargetRole": "0"
+                                }
+                            },
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": {
+                                    "resourceInfoExportKey": {
+                                        "RenderTargetRole": "1"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1594",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "GTController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "16",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1666511046132537:30814",
+                                "fileId": "17",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1499",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Garment Transfer",
+                        "type": "32",
+                        "subtype": "0",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "1668408108365113:2712010",
+                        "fileId": "294",
+                        "originalId": "312",
+                        "publicId": "31512",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Garment Transfer",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "244",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278408790:46414",
+                                "fileId": "295",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Image",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "245",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278413778:46425",
+                                "fileId": "296",
+                                "originalId": "297",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "DestructionHelper",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "246",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278515265:46444",
+                                "fileId": "298",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "GarmentTransferPrefab",
+                                "type": "12",
+                                "subtype": "0",
+                                "resourceId": "247",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278527804:46452",
+                                "fileId": "299",
+                                "originalId": "318",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "SourceCropTexture",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "248",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278548537:46460",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "SourceSegCropTexture",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "249",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278548816:46467",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "SourceSegTexture",
+                                "type": "1",
+                                "subtype": "19",
+                                "resourceId": "250",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278549055:46474",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "DrivingCropTexture",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "251",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278549364:46481",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "SourceSegGarmentTexture",
+                                "type": "1",
+                                "subtype": "19",
+                                "resourceId": "252",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278549603:46488",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "DrivingPrediction",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "253",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278551362:46495",
+                                "fileId": "300",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "SourcePrediction",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "254",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278555627:46502",
+                                "fileId": "301",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "SwagMLAPI",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "255",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278570310:46511",
+                                "fileId": "302",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "DrivingTexture",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "256",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278573068:46518",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "SwagMLResult",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "257",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278573386:46525",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "DrivingFrameMaterial",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "258",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278575652:46532",
+                                "fileId": "303",
+                                "originalId": "304",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "SwagML OutputMaterial",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "259",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278658222:46549",
+                                "fileId": "305",
+                                "originalId": "306",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "seg",
+                                "type": "22",
+                                "subtype": "0",
+                                "resourceId": "260",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278755865:46566",
+                                "fileId": "307",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Remote_Densepose",
+                                "type": "22",
+                                "subtype": "1",
+                                "resourceId": "261",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278761294:46579",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "warping_00000039",
+                                "type": "22",
+                                "subtype": "0",
+                                "resourceId": "262",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278771915:46587",
+                                "fileId": "308",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "segbox",
+                                "type": "22",
+                                "subtype": "0",
+                                "resourceId": "263",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278777013:46603",
+                                "fileId": "309",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "densepose_post_process",
+                                "type": "22",
+                                "subtype": "0",
+                                "resourceId": "264",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278781409:46613",
+                                "fileId": "310",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "generator_00000039_r15",
+                                "type": "22",
+                                "subtype": "0",
+                                "resourceId": "265",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "1668412278785920:46623",
+                                "fileId": "311",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "33": "",
+            "34": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1666511046058397:30791",
+                    "v": {
+                        "infos": {
+                            "originalSize": "138566",
+                            "compressedSize": "138566",
+                            "originalRAM": "1463616",
+                            "compressedRAM": "1463616",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "241",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "f49fcfb1edb11f3e316e98d1090a069a",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "244"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1666511046096666:30802",
+                    "v": {
+                        "infos": {
+                            "originalSize": "119867",
+                            "compressedSize": "119867",
+                            "originalRAM": "1463616",
+                            "compressedRAM": "1463616",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "242",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "ca64ff7a9fa67c841d63c7eb77b54294",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "245"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1666511046146908:30831",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4392",
+                            "compressedSize": "7306",
+                            "originalRAM": "262144",
+                            "compressedRAM": "32768",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "20",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "5d908faf6d9650aecac1f2be0c5cf54a",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "35"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1666511046174336:30842",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4414",
+                            "compressedSize": "5955",
+                            "originalRAM": "262144",
+                            "compressedRAM": "32768",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "23",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "6da1f83ee70dc2fed3b7be1811d6f2f1",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "36"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1666511046574512:30936",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4334",
+                            "compressedSize": "4866",
+                            "originalRAM": "1060900",
+                            "compressedRAM": "133128",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "33",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "289d40437d6a5ad8af1e13958817dcbe",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "37"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1666512886089537:256310",
+                    "v": {
+                        "infos": {
+                            "originalSize": "21011",
+                            "compressedSize": "12078",
+                            "originalRAM": "571568",
+                            "compressedRAM": "72280",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "67",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "41899a09c781319792af8d4393d38b9b",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "68"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1667816399679930:1544484",
+                    "v": {
+                        "infos": {
+                            "originalSize": "117865",
+                            "compressedSize": "117865",
+                            "originalRAM": "1463616",
+                            "compressedRAM": "1463616",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "240",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "1948df3379e29969ef7d3ec7722c36dd",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "243"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1668412278755865:46566",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1149267",
+                            "compressedSize": "1149267",
+                            "extension": "dnn",
+                            "settings": {
+                                "isCompressed": "false"
+                            }
+                        },
+                        "uncompressed_file": "313",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1668412278771915:46587",
+                    "v": {
+                        "infos": {
+                            "originalSize": "6081",
+                            "compressedSize": "6081",
+                            "extension": "dnn",
+                            "settings": {
+                                "isCompressed": "false"
+                            }
+                        },
+                        "uncompressed_file": "314",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1668412278777013:46603",
+                    "v": {
+                        "infos": {
+                            "originalSize": "3391",
+                            "compressedSize": "3391",
+                            "extension": "dnn",
+                            "settings": {
+                                "isCompressed": "false"
+                            }
+                        },
+                        "uncompressed_file": "315",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1668412278781409:46613",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1359",
+                            "compressedSize": "1359",
+                            "extension": "dnn",
+                            "settings": {
+                                "isCompressed": "false"
+                            }
+                        },
+                        "uncompressed_file": "316",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1668412278785920:46623",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2435418",
+                            "compressedSize": "2435418",
+                            "extension": "dnn",
+                            "settings": {
+                                "isCompressed": "false"
+                            }
+                        },
+                        "uncompressed_file": "317",
+                        "compressed_files": ""
+                    }
+                }
+            ]
+        },
+        "AssetImportController": {
+            "itemUidToID": ""
+        },
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.34.0"
+}
